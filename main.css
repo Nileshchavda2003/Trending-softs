@@ -1,14 +1,18 @@
-#bg
-{
-    position: absolute;
-  
-}
-#minus{
-    color: rgb(22, 176, 236);
-    font-size:1in;
-}
-#u{
-    font-size:1in;
+#Trending
+ {  /* background-color: rgba(240, 248, 255, 0.493); */
     color: azure;
-    font-weight: bolder;
+    font-weight: 600;
+}
+.uts{
+    background-color: rgba(240, 248, 255, 0.493);
+}
+.lang
+{
+    color: aliceblue;
+    font-weight: 500;
+}
+#bg{
+    position: absolute;
+    height: 90%;
+    width: 90%;
 }
