@@ -3,14 +3,23 @@
     color: azure;
     font-weight: 600;
 }
-.uts{
-    background-color: rgba(240, 248, 255, 0.493);
+uts{
+    background-color: rgba(32, 230, 14, 0.493);
 }
 .lang
 {
     color: aliceblue;
     font-weight: 500;
+    padding: 50px;
 }
+#lang{
+    background-color: rgba(240, 248, 255, 0.548);
+
+}
+#learn{
+    background-color: rgba(240, 255, 30, 0.507);
+}
+
 #bg{
     position: absolute;
     height: 90%;
