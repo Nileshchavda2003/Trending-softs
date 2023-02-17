@@ -3,8 +3,8 @@
     color: azure;
     font-weight: 600;
 }
-uts{
-    background-color: rgba(32, 230, 14, 0.493);
+#uts{
+    background-color: rgba(123, 128, 122, 0.493);
 }
 .lang
 {
@@ -16,6 +16,15 @@ uts{
     background-color: rgba(240, 248, 255, 0.548);
 
 }
+ul{
+    direction: rtl;
+    list-style-type: square;
+    text-align: right;
+}
+#add{
+    background-color: rgba(0, 0, 0, 0.466);
+    color: azure;
+}
 #learn{
     background-color: rgba(240, 255, 30, 0.507);
 }
@@ -24,4 +33,15 @@ uts{
     position: absolute;
     height: 90%;
     width: 90%;
+}
+#Firstfull{
+    background-color: aliceblue;    
+}
+#logo{
+    height: 100px;
+    width: 100px;
+}
+#logofull{
+color: azure;
+background-color: rgb(0, 217, 255);
 }
