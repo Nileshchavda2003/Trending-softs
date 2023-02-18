@@ -35,7 +35,8 @@
 }
 
 #utsmain {
-    background-color: rgba(123, 128, 122, 0.493);
+    background-color: rgba(14, 14, 14, 0.493);
+    padding: 45px;
 }
 
 /* languages programming */
@@ -46,7 +47,8 @@
 }
 
 #lang {
-    background-color: rgba(240, 248, 255, 0.548);
+    /* background-color: rgba(111, 114, 117, 0.429); */
+    background-color: rgba(126, 125, 125, 0.623);
 
 }
 
@@ -65,7 +67,9 @@ ul {
 
 /* address phone and mail */
 #add {
-    background-color: rgba(0, 0, 0, 0.466);
+    background-color: rgba(111, 114, 117, 0.429);
+   
+    /* background-color: rgba(126, 125, 125, 0.623); */
     color: azure;
     text-align: right;
 }
@@ -82,7 +86,7 @@ ul {
 /* Learn programmming */
 #learnp {
     /* margin-bottom: 0px; */
-    background-color: rgba(240, 255, 30, 0.507);
+    background-color: rgba(255, 225, 0, 0.715);
 }
 
 #learnp2 {
@@ -113,6 +117,8 @@ ul {
 
 /* First start it with us */
 #Firstfull {
+    padding: 20px 0px 20px 70px;
+    text-align: left;
     background-color: white;
 }
 
@@ -134,16 +140,14 @@ ul {
     font-size: larger;
 }
 
-#firsti {
-    padding: 10px;
-}
+
 
 /* coded logo of the company */
 #logo {
     height: 100px;
     width: 100px;
 }
-
+        /* right coded logo section start */
 #coded {
     margin-top: 40px;
     font-size: xx-large;
@@ -151,7 +155,7 @@ ul {
 }
 
 #codedfull {
-    padding: 20px;
+    padding: 30px;
 }
 
 #lotc {
@@ -163,37 +167,48 @@ ul {
 
 #logofull {
     color: azure;
+    /* display:flex; */
     background-color: rgb(0, 217, 255);
 }
 
 /* Last section start */
 /* left portion */
+#lastleft{
+    padding: 80px;
+    background-color: rgba(169, 169, 169, 0.233);
+}
 footer {
-    padding: 10px;
-    background-color: red;
+    padding: 7px;
+    background-color:brown;
 }
 #lorem{
     text-align: justify;
     color: rgb(94, 88, 88);
     /* color: antiquewhite; */
     font-weight: 500;
-    font-size:larger ;
-    margin-top: -30px;
+    font-size:x-large ;
+    margin-top: -30px ;
+    padding-bottom:0px;
 }
 
 #ourcompany {
     font-size: x-large;
     font-weight: bold;
-    color: brown;
+    color:brown;
+   
+    /* color: brown; */
+}
+#perag{
+    text-align: justify;
+    font-size: xx-large;
+    font-weight:800;
+    color: rgb(122, 122, 122);
+
 }
 #co{
-    margin-bottom:0px ;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-left: 0px;
-    padding: 0px;
-    /* padding-tops: 100px; */
-    font-size: xx-large;
+
+    font-size:large;
+    margin-top: 30px;
     color: rgb(94, 88, 88);
 
 }
@@ -201,5 +216,45 @@ footer {
 #lastcoded {
     color: rgb(94, 88, 88);
     font-size: xxx-large;
+    font-weight:900;
+    margin-left: 20px;
+}
+        /* right side */
+
+#second{
+    font-size: 60px;
+    font-weight: 800;
+  /* margin-top: 35px; */
+    display: flex-end;
+    /* text-align: left; */
+    color: rgb(0, 229, 255);
+}
+#fullleft{
+    padding: 40px;
+}
+#endit{
+    font-size: xx-large;
+    margin-top: -50px;
+    font-weight: 500;
+    color: rgb(94, 88, 88);
+    text-align: center;
+
+
+}
+#leftb{
+    background-color: white;
+
+}
+#earn{
+    text-align: right;
+    font-size: 34px;
+    color: rgb(94, 88, 88);
+    
     font-weight: bolder;
+}
+#rightp{
+    text-align:justify;
+}
+#lastpp{
+    text-align: right;
 }
