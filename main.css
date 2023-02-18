@@ -1,47 +1,92 @@
-#Trending
- {  /* background-color: rgba(240, 248, 255, 0.493); */
+#minus {
+
+    /* font-size: 100px; */
+    /* margin-top: -100px; */
+    /* color: ; */
+    font-weight: xx-large;
+    /* top:25px;
+
+
+    left: 45px; */
+    /* height: 10px; */
+    width: 70px;
+    /* padding: 1px;  */
+        padding: 1px 25px 1px 25px;
+    background-color:aqua;
+    margin-left: -18px;
+    margin-top:30px;
+    }
+
+#u {
+    color: azure;
+    font-size:60px;
+    font-weight: 700;
+    margin-top: -15px;
+}
+
+#Trending {
+    /* background-color: rgba(240, 248, 255, 0.493); */
+    margin-top: -20px;
     color: azure;
     font-weight: 600;
 }
-#uts{
+
+#uts {
+    text-align: justify;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+#utsmain{
     background-color: rgba(123, 128, 122, 0.493);
 }
-.lang
-{
+
+.lang {
     color: aliceblue;
     font-weight: 500;
-    padding: 50px;
+    /* padding: 50px; */
 }
-#lang{
+
+#lang {
     background-color: rgba(240, 248, 255, 0.548);
 
 }
-ul{
+
+ul {
     direction: rtl;
     list-style-type: square;
+    font-weight: 700;
     text-align: right;
 }
-#add{
+
+#list {
+    font-size: xx-large;
+}
+
+#add {
     background-color: rgba(0, 0, 0, 0.466);
     color: azure;
 }
-#learn{
+
+#learn {
     background-color: rgba(240, 255, 30, 0.507);
 }
 
-#bg{
+#bg {
     position: absolute;
-    height: 90%;
-    width: 90%;
+    height: 550px;
+    width: 1110px;
 }
-#Firstfull{
-    background-color: aliceblue;    
+
+#Firstfull {
+    background-color: aliceblue;
 }
-#logo{
+
+#logo {
     height: 100px;
     width: 100px;
 }
-#logofull{
-color: azure;
-background-color: rgb(0, 217, 255);
+
+#logofull {
+    color: azure;
+    background-color: rgb(0, 217, 255);
 }
