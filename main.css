@@ -1,25 +1,17 @@
 #minus {
 
-    /* font-size: 100px; */
-    /* margin-top: -100px; */
-    /* color: ; */
     font-weight: xx-large;
-    /* top:25px;
 
-
-    left: 45px; */
-    /* height: 10px; */
     width: 70px;
-    /* padding: 1px;  */
-        padding: 1px 25px 1px 25px;
-    background-color:aqua;
+    padding: 1px 25px 1px 25px;
+    background-color: aqua;
     margin-left: -18px;
-    margin-top:30px;
-    }
+    margin-top: 30px;
+}
 
 #u {
     color: azure;
-    font-size:60px;
+    font-size: 60px;
     font-weight: 700;
     margin-top: -15px;
 }
@@ -31,15 +23,22 @@
     font-weight: 600;
 }
 
+#softs {
+    color: azure;
+    font-weight: 400;
+}
+
 #uts {
     text-align: justify;
     margin-left: 50px;
     margin-top: 0px;
 }
-#utsmain{
+
+#utsmain {
     background-color: rgba(123, 128, 122, 0.493);
 }
 
+/* languages programming */
 .lang {
     color: aliceblue;
     font-weight: 500;
@@ -52,6 +51,8 @@
 }
 
 ul {
+    padding: 20px;
+    padding-right: 50px;
     direction: rtl;
     list-style-type: square;
     font-weight: 700;
@@ -62,31 +63,143 @@ ul {
     font-size: xx-large;
 }
 
+/* address phone and mail */
 #add {
     background-color: rgba(0, 0, 0, 0.466);
     color: azure;
+    text-align: right;
 }
 
-#learn {
+.address {
+    font-size: large;
+    font-weight: 900;
+}
+
+#addresspor {
+    padding: 30px;
+}
+
+/* Learn programmming */
+#learnp {
+    /* margin-bottom: 0px; */
     background-color: rgba(240, 255, 30, 0.507);
 }
 
+#learnp2 {
+    padding: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#learn {
+    font-size: 60px;
+    font-weight: 700;
+    color: white;
+}
+
+#pro {
+    margin-top: 10px;
+    color: white;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+/* backgrUND image */
 #bg {
     position: absolute;
     height: 550px;
     width: 1110px;
 }
 
+/* First start it with us */
 #Firstfull {
-    background-color: aliceblue;
+    background-color: white;
 }
 
+#first {
+    color: rgba(255, 0, 0, 0.829);
+    font-weight: 900;
+    font-size: 60px;
+}
+
+#start {
+    font-size: xx-large;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.61);
+}
+
+#mon {
+    color: rgba(0, 0, 0, 0.61);
+    font-weight: 500;
+    font-size: larger;
+}
+
+#firsti {
+    padding: 10px;
+}
+
+/* coded logo of the company */
 #logo {
     height: 100px;
     width: 100px;
 }
 
+#coded {
+    margin-top: 40px;
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+#codedfull {
+    padding: 20px;
+}
+
+#lotc {
+    margin-left: 80px;
+    font-size: large;
+    margin-top: -18px;
+    font-weight: 500;
+}
+
 #logofull {
     color: azure;
     background-color: rgb(0, 217, 255);
+}
+
+/* Last section start */
+/* left portion */
+footer {
+    padding: 10px;
+    background-color: red;
+}
+#lorem{
+    text-align: justify;
+    color: rgb(94, 88, 88);
+    /* color: antiquewhite; */
+    font-weight: 500;
+    font-size:larger ;
+    margin-top: -30px;
+}
+
+#ourcompany {
+    font-size: x-large;
+    font-weight: bold;
+    color: brown;
+}
+#co{
+    margin-bottom:0px ;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0px;
+    /* padding-tops: 100px; */
+    font-size: xx-large;
+    color: rgb(94, 88, 88);
+
+}
+
+#lastcoded {
+    color: rgb(94, 88, 88);
+    font-size: xxx-large;
+    font-weight: bolder;
 }
